@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Emirhan!
 👩🏻‍🎓 Studying Software Engineering at Istanbul Health and Technology University<br/>
-👩🏻‍💻 Trying to be a software developer who builds the future!<br/>
 💭 Currently learning about Flutter/Dart!<br/>
 
 # 💻 Tech Stack:
