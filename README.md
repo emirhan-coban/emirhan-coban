@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Emirhan Çoban
+## Hi there! I'm Emirhan 👋
 
 💻 I'm a Software Engineer with a strong focus on **mobile app development using Flutter**.  
 🌱 I’ve been developing Flutter apps for over a year and love building clean, scalable UIs.  
