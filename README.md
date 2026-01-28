@@ -1,6 +1,7 @@
 ## Hi there! I'm Emirhan 👋
 
 🔗 My Portfolio: www.emirhancoban.com
+
 💻 I'm a Software Engineer with a strong focus on **mobile app development using Flutter**.  
 🌱 I’ve been developing Flutter apps for over a year and love building clean, scalable UIs.  
 🎨 I also enjoy working with **Figma** to design intuitive user experiences.  
