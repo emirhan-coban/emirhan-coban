@@ -1,4 +1,4 @@
-## Hi there! I'm Emirhan 👋
+## Hi there! I'm Emirhan Çoban 👋
 
 🔗 My Portfolio: www.emirhancoban.com
 
