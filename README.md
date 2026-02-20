@@ -16,8 +16,6 @@
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=emirhan-coban&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9&ring_color=58A6FF" />
-
 ### About Me
 
 I'm a **Software Engineer** specializing in cross-platform mobile development with **Flutter & Dart**. I care deeply about clean architecture, pixel-perfect UIs, and seamless user experiences.
@@ -27,8 +25,6 @@ I'm a **Software Engineer** specializing in cross-platform mobile development wi
 - ☁️ &nbsp;Integrating **Firebase** — Auth, Firestore & Cloud Storage
 - 🌱 &nbsp;2026 goal: consistent commits, greener contributions
 - 🔗 &nbsp;Check out my apps at [emirhan.app](https://www.emirhan.app)
-
-<br clear="right"/>
 
 ---
 
@@ -62,8 +58,7 @@ I'm a **Software Engineer** specializing in cross-platform mobile development wi
 ### GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emirhan-coban&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirhan-coban&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=emirhan-coban&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" width="60%" />
 </div>
 
 <br/>
