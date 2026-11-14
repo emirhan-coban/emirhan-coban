@@ -38,7 +38,7 @@ A pipeline for a POS software company that finds newly opened food and retail bu
 Personal portfolio and app showcase sites with a bilingual Next.js version, light and dark themes, SEO metadata (Open Graph, JSON-LD, sitemap) and no-framework performance-focused pages.
 
 **Smaller work**
-Flutter mini-games and a Flutter app for a creative agency, a photo-sharing web page, and data structures and algorithms practice in C#.
+Flutter mini-games and a Firebase-backed Flutter app, a photo-sharing web page, and data structures and algorithms practice in C#.
 
 <br>
 
