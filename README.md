@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Emirhan%20%C3%87oban&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Emirhan%20%C3%87oban&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Mobile%20%26%20Full-Stack&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 </div>
 
 <br/>
@@ -18,13 +18,28 @@
 
 ### About Me
 
-I'm a **Software Engineer** specializing in cross-platform mobile development with **Flutter & Dart**. I care deeply about clean architecture, pixel-perfect UIs, and seamless user experiences.
+Software engineer building **mobile and full-stack products end to end** — from Figma design to shipped app. I ship real apps with **React Native / Expo** and **Flutter**, and back them with **Supabase, PostgreSQL, Python and Java**.
 
-- 📱 &nbsp;Building production-grade apps with **Flutter**
-- 🎨 &nbsp;Designing interfaces in **Figma** before writing a line of code
-- ☁️ &nbsp;Integrating **Firebase** — Auth, Firestore & Cloud Storage
-- 🌱 &nbsp;2026 goal: consistent commits, greener contributions
-- 🔗 &nbsp;Check out my apps at [emirhan.app](https://www.emirhan.app)
+> 🎯 **Open to internships** (software engineering, mobile, full-stack) · 🇹🇷 Türkçe / 🇬🇧 English
+
+- 📱 Cross-platform mobile apps with React Native (Expo, Skia, Reanimated) and Flutter
+- 🌐 Web apps with Next.js, TypeScript and Prisma
+- ⚙️ Backend services with Python (FastAPI), Java (Spring Boot), Supabase, Docker
+- 🤖 Computer vision & ML experiments (MediaPipe, anomaly detection)
+- 🔗 More at [emirhancoban.com](https://www.emirhancoban.com) and [emirhan.app](https://www.emirhan.app)
+
+---
+
+### Featured Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**atls.**](https://github.com/emirhan-coban/atls) | Passport-themed travel app: mark visited and wishlist countries on an interactive 3D globe | React Native, Expo, Skia, Supabase |
+| [**NEXUS Trading Terminal**](https://github.com/emirhan-coban/trading-terminal) | Multi-asset (crypto, US & BIST stocks) research and paper-trading terminal with live quotes, alerts and risk guards | Python, FastAPI, TypeScript, Docker |
+| [**Pet Adoption Platform**](https://github.com/emirhan-coban/pet-adoption) · [demo](https://pet-adoption-three-dusky.vercel.app) | Adoption platform with web and mobile clients, Supabase auth, RLS and storage | Next.js, React Native, Supabase |
+| [**Fonova**](https://github.com/emirhan-coban/fonova) · [demo](https://startup-hub-ten.vercel.app) | Startup hub web platform | Next.js, Prisma, PostgreSQL |
+| [**Hand-Controlled Puzzle Game**](https://github.com/emirhan-coban/hand-controlled-puzzle-game) | Camera game played entirely with hand gestures (pinch to capture and solve a jigsaw) | Python, MediaPipe |
+| [**Zihindar**](https://github.com/emirhan-coban/wavelength-turkce) · [play](https://zihindar.vercel.app) | Turkish offline party game inspired by Wavelength | Flutter, Dart |
 
 ---
 
@@ -32,23 +47,33 @@ I'm a **Software Engineer** specializing in cross-platform mobile development wi
 
 <table>
   <tr>
-    <td valign="top" width="33%">
-      <h4>📱 Mobile & Design</h4>
+    <td valign="top" width="25%">
+      <h4>📱 Mobile</h4>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/><br/>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/><br/>
       <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
     </td>
-    <td valign="top" width="33%">
-      <h4>☁️ Backend & Database</h4>
+    <td valign="top" width="25%">
+      <h4>🌐 Web</h4>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/><br/>
+    </td>
+    <td valign="top" width="25%">
+      <h4>⚙️ Backend & Data</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/><br/>
+    </td>
+    <td valign="top" width="25%">
+      <h4>🛠️ Tools</h4>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/><br/>
       <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-    </td>
-    <td valign="top" width="33%">
-      <h4>🛠️ Tools & Other</h4>
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white"/>
     </td>
   </tr>
 </table>
