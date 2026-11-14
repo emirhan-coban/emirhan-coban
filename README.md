@@ -22,7 +22,7 @@ Currently looking for an **internship** · Türkçe / English
 
 Code is not public, happy to walk through any of them.
 
-- **Barbershop booking SaaS**: multi-tenant reservation platform with 3D chair selection, owner approval and auto-confirmation for trusted customers. *Java, Spring Boot, PostgreSQL, Redis, React, Three.js*
+- **Multi-tenant SaaS**: multi-tenant reservation platform with 3D chair selection, owner approval and auto-confirmation for trusted customers. *Java, Spring Boot, PostgreSQL, Redis, React, Three.js*
 - **Wandered**: builds a personal travel map and shareable cards from geotagged photos, with offline country lookup. *React Native, Expo, SQLite*
 - **Muhur**: Turkish swipe-based life-decision game in the style of Reigns. *React Native, Expo*
 - **Lead pipeline**: finds newly opened food and retail businesses from public sources and delivers scored leads. *Python, Celery, Playwright*
